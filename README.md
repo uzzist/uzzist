@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uzair
 - 👀 I’m interested in Mobile Application Development, Web Development and Artificial Intelligence
-- 🌱 I’m currently learning Flutter and have experience developing android apps using kotlin
+- 🌱 I’m currently learning Web Development and have experience developing android apps using kotlin and Flutter
 - 💞️ I’m looking to collaborate on instagram @uzzist10
 - 📫 Reach me via my instagram account @uzzist10
 
