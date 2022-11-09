@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Uzair
 - 👀 I’m interested in Mobile Application Development, Web Development and Artificial Intelligence
 - 🌱 I’m currently learning App Development using Flutter and have experience developing android apps using kotlin as well.
-- 💞️ I’m looking to collaborate on instagram @uzzist10
-- 📫 Reach me via my instagram account @uzzist10
+- 💞️ I’m looking to collaborate on instagram @uzztech
+- 📫 Reach me via my instagram account @uzztech
 
 <!---
 uzzist/uzzist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
