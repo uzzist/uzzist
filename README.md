@@ -10,17 +10,7 @@ Work Experience:
 
 💻 Sigi Technologies (Flutter Developer) | Dec 2022 - Present
 
- 
-
-🧑‍💻‍ Projects:
-
-🔭 Woowlook - A platform that allows users to find and book appointments in nearby salons.
-
-🚀 Finanza - An app to keep track of your budget.
-
-💱 I worked on Truck Xpress, Panama Postal Service, Fomino, Okapi Express and many other projects as well.
-
-
+🧑‍💻‍ I'm not just limited to my day job! I also love taking up part-time freelance projects to explore new challenges and contribute to exciting developments.
 
 Let's connect and discuss all things tech! You can reach me on:
 
