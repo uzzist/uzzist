@@ -12,10 +12,5 @@ Work Experience:
 
 🧑‍💻‍ I'm not just limited to my day job! I also love taking up part-time freelance projects to explore new challenges and contribute to exciting developments.
 
-Let's connect and discuss all things tech! You can reach me on:
-
-LinkedIn: https://www.linkedin.com/in/muhammad-uzair-b63baa233/
-
-Email: m.uzair1402@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions. Happy coding! 🚀
