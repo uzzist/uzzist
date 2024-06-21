@@ -1,6 +1,6 @@
 Hello!👋 
 
-I'm Muhammad Uzair, a passionate Flutter developer with a Bachelor's degree in Computer Science from the University of Central Punjab. I thrive on turning innovative ideas into efficient and user-friendly mobile applications.
+I'm Muhammad Uzair, a passionate Mobile App developer with a Bachelor's degree in Computer Science from the University of Central Punjab. I thrive on turning innovative ideas into efficient and user-friendly mobile applications.
 
 🎓 Education: Bachelors in Computer Science, University of Central Punjab (2018-2022), CGPA: 3.63 / 4.0
 
